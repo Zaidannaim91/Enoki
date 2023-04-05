@@ -1,0 +1,25 @@
+{
+   "title":"[Enoki] Kitsutsuki-san the Workaholic",
+   "description":"",
+   "author":"Enoki",
+   "artist":"Enoki",
+   "cover":"https://i.imgur.com/zkjVOzz.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/I7fRUAE"
+         },
+         "last_updated":1624606143,
+         "title":"Kitsutsuki-san the Workaholic",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/5xeRWbv"
+         },
+         "last_updated":1624606143,
+         "title":"Kitsutsuki-san is Overly Serious",
+         "volume":"2"
+      }
+   }
+}
